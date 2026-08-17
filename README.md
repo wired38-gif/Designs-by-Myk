@@ -1,2 +1,3 @@
 # Designs-by-Myk
-Everything Myk Related
+
+This is the main repository under `wired38-gif` that other `wired38-gif/*` repositories will live under.
